@@ -1,5 +1,10 @@
-### Hi there 👋
+## Olá eu sou o Anderson-Silva0 👋
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Silva0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Silva0&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **Anderson-Silva0/Anderson-Silva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

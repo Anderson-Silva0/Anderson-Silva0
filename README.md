@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Anderson-Silva0">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Silva0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Silva0&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Silva0&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Silva0&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <!--
 **Anderson-Silva0/Anderson-Silva0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
